@@ -98,3 +98,9 @@ p {
   background-color: var(--primary-color);
   color: #0b58ca;
 }
+
+@media (max-width: 600px) {
+  img {
+    display: none;
+  }
+}
